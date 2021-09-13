@@ -23,8 +23,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>16</java.version>
-           <sonar.projectKey>Pranay998_ProductMs</sonar.projectKey>
-       <sonar.organization>Pranay998</sonar.organization>
+        <sonar.projectKey>Pranay805_ProductMS</sonar.projectKey>
+       <sonar.organization>Pranay805</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
